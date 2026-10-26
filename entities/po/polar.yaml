@@ -11,6 +11,7 @@ entity:
   category: payments-fintech
 profile:
   description: Polar is a billing and monetization platform and merchant of record for software and AI products, handling payments, subscriptions and sales tax.
+  summary: Polar is a merchant-of-record billing platform for software, SaaS and AI products, handling payments, subscriptions, sales tax and usage-based billing.
   links:
     site: https://polar.sh
 sources:
